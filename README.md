@@ -10,10 +10,13 @@ Here is where I post my code, to either work collaboratively or showcase my past
 - 🌐 Visit my portfolio on [google.com](https://google.com)
 - 📩 HMU at [keyforedu@gmail.com](mailto:keyforedu@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyforedu&label=Profile%20views&color=0e75b6&style=flat" alt="keyforedu" /> </p>
+
 ## GitHub Stats 📈
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyforedu&theme=github-light&card_width=500&card_height=130&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyforedu&theme=github-light&layout=compact&hide_border=true&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keyforedu&show_icons=true&theme=transparent)
 
 </div>
 
