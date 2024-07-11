@@ -1,7 +1,7 @@
 ## Hey, there 👋🏻
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Key;A+lifetime+learner;An+Ios+and+Backend+Enthusiast&font=JetBrains%20Mono&width=280&height=45&color=2200009A&vCenter=true&size=21">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Keren+Hosanna;A+Lifetime+Learner;An+IoS+and+Backend+Enthusiast&font=JetBrains%20Mono&width=450&height=45&color=2200009A&vCenter=true&size=21">
 </h3>
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
