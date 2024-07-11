@@ -1,7 +1,7 @@
-## Hey, there 👋🏻
+![image](https://github.com/keyforedu/keyforedu/assets/127713113/9059e36e-02e7-4756-8e70-2b7bcd2e4a8a)## Hey, there 👋🏻
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Keren+Hosanna;A+Lifetime+Learner;An+IoS+and+Backend+Enthusiast&font=JetBrains%20Mono&width=450&height=45&color=39d353&vCenter=true&center=true&size=21">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Keren+Hosanna;A+Lifetime+Learner;An+IoS+and+Backend+Enthusiast&font=JetBrains%20Mono&width=450&height=45&color=0081fb&vCenter=true&center=true&size=21">
 </h3>
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
@@ -15,7 +15,7 @@ Here is where I post my code, to either work collaboratively or showcase my past
 ## GitHub Stats 📈
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyforedu&theme=github-light&card_width=500&card_height=130&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyforedu&theme=github-light&layout=compact&hide_border=true&count_private=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyforedu&theme=meta-light&card_width=500&card_height=130&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyforedu&theme=meta-light&layout=compact&hide_border=true&count_private=true&show_icons=true)
 
 </div>
 
