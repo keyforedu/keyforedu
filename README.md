@@ -51,3 +51,6 @@ Here is where I post my code, to either work collaboratively or showcase my past
 
 <a href="https://medium.com/@keyforedu">
 <img align="left" alt="Medium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/></a>
+
+<a href="https://www.instagram.com/kerenhosannaa/">
+<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
