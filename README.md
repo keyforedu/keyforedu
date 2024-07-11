@@ -13,7 +13,7 @@ Here is where I post my code, to either work collaboratively or showcase my past
 ## GitHub Stats 📈
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyforedu&theme=swift&card_width=500&card_height=150&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyforedu&theme=swift&layout=compact&hide_border=true&card_height=200&count_private=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyforedu&theme=swift&card_width=500&card_height=130&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyforedu&theme=swift&layout=compact&hide_border=true&count_private=true&show_icons=true)
 
 </div>
 
