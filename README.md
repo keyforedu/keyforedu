@@ -1,4 +1,4 @@
-![image](https://github.com/keyforedu/keyforedu/assets/127713113/9059e36e-02e7-4756-8e70-2b7bcd2e4a8a)## Hey, there 👋🏻
+## Hey, there 👋🏻
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Keren+Hosanna;A+Lifetime+Learner;An+IoS+and+Backend+Enthusiast&font=JetBrains%20Mono&width=450&height=45&color=0081fb&vCenter=true&center=true&size=21">
