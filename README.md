@@ -5,8 +5,8 @@
 </h3>
 
 Here is where I post my code, to either work collaboratively or showcase my past projects.
-- 🏆 A PPTI Student
-- 🧠 Interested in iOS & Backend Development
+- 🏆 A Computer Science Student
+- 🧠 Interested in Web Development
 - 🌐 Visit my portfolio on [(on development hehehe)](https://github.com/keyforedu)
 - 📩 HMU at [keyforedu@gmail.com](mailto:keyforedu@gmail.com)
 
